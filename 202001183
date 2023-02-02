@@ -1,0 +1,39 @@
+Name: Darshan Dobariya
+Student ID: 202001183
+
+Q.1. Identify FRs and NFRs:
+
+Functional Requirements:
+  1. Anyone who is not a member is welcome to browse and search for books using this system.
+  2. Users who can provide legal documentation of LIS membership can register themselves.
+  3. If two users are attempting to borrow the same book at the same time, the system should be able to handle the borrowing process.
+  4. Only the institute LAN is used to execute the web application.
+  5. Offer specialized services for students, library members, staff members, and others.
+
+Non-Functional Requirements:
+
+  1. No private data, such as passwords, is kept in plain text.
+  2. If a user borrows some books, the user receives a reminder to return the books when the loan period is through.
+  3. The system should be available constantly (at least the system should not be down for working days).
+  4. Users receive a self-verification email when they register, to the appropriate email address.
+
+Q.2. Identify scope, features and non-functional aspects of the following problem.
+
+Identify scope:
+  People with incapacitating hearing loss can benefit from our Android app.
+  A astounding 466 million individuals, or almost 5% of the world's population, are affected by hearing loss that is incapacitating.
+  This tool is useful when users require rapid assistance, such as when cars honk or children scream.
+  An application employs artificial intelligence to identify the above-mentioned important sounds.
+
+Features:
+  1. The application should promptly notify users when significant events are detected.
+  2. The app use artificial intelligence to identify significant sound events that are relevant to this group.
+  3. Through some user input, the application should make sure that the user is aware of important situations.
+  4. A second alarm was issued to the user's family members when the alert was received and there was no reaction from the user.
+
+Non-Functional Requirements:
+  1. The application should operate with low latency and power.
+  2. The application accurately recognises sound.
+  3. Applications alert the user via vibrating, flashing the screen, etc.
+  4. The app offers a few emergency lines so that users can send messages while they are struggling.
+  5. When a user doesn't reply to an alert, the app should track their whereabouts and notify their family.
